@@ -15,3 +15,4 @@ The content of public/data.json is displayed using async fetch
     })(this);
 
 ````
+![ScreenShot](https://github.com/yuemingl/my-react-app-async/blob/master/images/Screen%20Shot%202017-11-10%20at%204.56.09%20PM.png)
